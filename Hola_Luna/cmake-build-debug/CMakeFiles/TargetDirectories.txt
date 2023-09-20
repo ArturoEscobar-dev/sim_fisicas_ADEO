@@ -1,0 +1,3 @@
+D:/veloc/UNIAT/Semestre 5, Sept23-Ene24/Simuladores de Físicas/sim_fisicas_ADEO/Hola_Luna/cmake-build-debug/CMakeFiles/Hola_Luna.dir
+D:/veloc/UNIAT/Semestre 5, Sept23-Ene24/Simuladores de Físicas/sim_fisicas_ADEO/Hola_Luna/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/veloc/UNIAT/Semestre 5, Sept23-Ene24/Simuladores de Físicas/sim_fisicas_ADEO/Hola_Luna/cmake-build-debug/CMakeFiles/rebuild_cache.dir

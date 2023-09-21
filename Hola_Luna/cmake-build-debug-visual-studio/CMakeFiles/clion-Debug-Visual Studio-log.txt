@@ -1,5 +1,16 @@
-C:\Users\velot\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/Users/velot/AppData/Local/Programs/CLion/bin/ninja/win/x64/ninja.exe -DCMAKE_TOOLCHAIN_FILE=C:\Users\velot\.vcpkg-clion\vcpkg\scripts\buildsystems\vcpkg.cmake -G Ninja -S "D:\veloc\UNIAT\Semestre 5, Sept23-Ene24\Simuladores de Físicas\sim_fisicas_ADEO\Hola_Luna" -B "D:\veloc\UNIAT\Semestre 5, Sept23-Ene24\Simuladores de Físicas\sim_fisicas_ADEO\Hola_Luna\cmake-build-debug-visual-studio"
--- Configuring done (0.1s)
+C:\Users\velot\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/Users/velot/AppData/Local/Programs/CLion/bin/ninja/win/x64/ninja.exe -DCMAKE_TOOLCHAIN_FILE=C:\Users\velot\.vcpkg-clion\vcpkg\scripts\buildsystems\vcpkg.cmake -G Ninja -S "D:\veloc\UNIAT\Semestre 5, Sept23-Ene24\Simuladores de Físicas\github\sim_fisicas_ADEO\Hola_Luna" -B "D:\veloc\UNIAT\Semestre 5, Sept23-Ene24\Simuladores de Físicas\github\sim_fisicas_ADEO\Hola_Luna\cmake-build-debug-visual-studio"
+-- Running vcpkg install
+Detecting compiler hash for triplet x64-windows...
+All requested packages are currently installed.
+Total install time: 200 ns
+box2d provides CMake targets:
+
+  # this is heuristically generated, and may not be correct
+  find_package(box2d CONFIG REQUIRED)
+  target_link_libraries(main PRIVATE box2d::box2d)
+
+-- Running vcpkg install - done
+-- Configuring done (3.1s)
 -- Generating done (0.0s)
 CMake Warning:
   Manually-specified variables were not used by the project:
@@ -7,4 +18,4 @@ CMake Warning:
     CMAKE_TOOLCHAIN_FILE
 
 
--- Build files have been written to: D:/veloc/UNIAT/Semestre 5, Sept23-Ene24/Simuladores de Físicas/sim_fisicas_ADEO/Hola_Luna/cmake-build-debug-visual-studio
+-- Build files have been written to: D:/veloc/UNIAT/Semestre 5, Sept23-Ene24/Simuladores de Físicas/github/sim_fisicas_ADEO/Hola_Luna/cmake-build-debug-visual-studio

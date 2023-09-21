@@ -1,0 +1,9 @@
+Detecting compiler hash for triplet x64-windows...
+All requested packages are currently installed.
+Total install time: 200 ns
+box2d provides CMake targets:
+
+  # this is heuristically generated, and may not be correct
+  find_package(box2d CONFIG REQUIRED)
+  target_link_libraries(main PRIVATE box2d::box2d)
+

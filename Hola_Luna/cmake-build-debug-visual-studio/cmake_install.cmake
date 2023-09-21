@@ -1,4 +1,4 @@
-# Install script for directory: D:/veloc/UNIAT/Semestre 5, Sept23-Ene24/Simuladores de Físicas/sim_fisicas_ADEO/Hola_Luna
+# Install script for directory: D:/veloc/UNIAT/Semestre 5, Sept23-Ene24/Simuladores de Físicas/github/sim_fisicas_ADEO/Hola_Luna
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "D:/veloc/UNIAT/Semestre 5, Sept23-Ene24/Simuladores de Físicas/sim_fisicas_ADEO/Hola_Luna/cmake-build-debug-visual-studio/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "D:/veloc/UNIAT/Semestre 5, Sept23-Ene24/Simuladores de Físicas/github/sim_fisicas_ADEO/Hola_Luna/cmake-build-debug-visual-studio/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

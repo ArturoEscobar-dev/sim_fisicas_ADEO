@@ -1,0 +1,3 @@
+D:/veloc/UNIAT/Semestre 5, Sept23-Ene24/Simuladores de Físicas/github/sim_fisicas_ADEO/Tarea2_Disparo/cmake-build-debug/CMakeFiles/Tarea2_Disparo.dir
+D:/veloc/UNIAT/Semestre 5, Sept23-Ene24/Simuladores de Físicas/github/sim_fisicas_ADEO/Tarea2_Disparo/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/veloc/UNIAT/Semestre 5, Sept23-Ene24/Simuladores de Físicas/github/sim_fisicas_ADEO/Tarea2_Disparo/cmake-build-debug/CMakeFiles/rebuild_cache.dir

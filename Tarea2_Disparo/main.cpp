@@ -36,7 +36,8 @@ int main() {
 
     // Set the initial velocity of the bullet
     float angle = 60.0f; // Angle in degrees
-    float speed = 900.0f; // Speed in m/s
+    //Simplemente convertí los 900km/h a m/s antes, porque 900km/h es igual a 250m/s
+    float speed = 250.0f; // Speed in m/s
     float vx = speed * std::cos(angle * M_PI / 180.0f);
     float vy = speed * std::sin(angle * M_PI / 180.0f);
 

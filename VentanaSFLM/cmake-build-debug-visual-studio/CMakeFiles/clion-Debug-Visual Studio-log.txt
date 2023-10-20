@@ -1,0 +1,34 @@
+C:\Users\velot\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/Users/velot/AppData/Local/Programs/CLion/bin/ninja/win/x64/ninja.exe -DCMAKE_TOOLCHAIN_FILE=C:\Users\velot\.vcpkg-clion\vcpkg\scripts\buildsystems\vcpkg.cmake -G Ninja -S "D:\veloc\UNIAT\Semestre 5, Sept23-Ene24\Simuladores de Físicas\github\sim_fisicas_ADEO\VentanaSFLM" -B "D:\veloc\UNIAT\Semestre 5, Sept23-Ene24\Simuladores de Físicas\github\sim_fisicas_ADEO\VentanaSFLM\cmake-build-debug-visual-studio"
+-- Looking for sys/types.h
+-- Looking for sys/types.h - found
+-- Looking for stdint.h
+-- Looking for stdint.h - found
+-- Looking for stddef.h
+-- Looking for stddef.h - found
+-- Check size of void*
+-- Check size of void* - done
+-- Found OpenGL: opengl32   
+-- Found OpenAL: D:/veloc/UNIAT/Semestre 5, Sept23-Ene24/Simuladores de Físicas/github/sim_fisicas_ADEO/VentanaSFLM/cmake-build-debug-visual-studio/_deps/sfml-src/extlibs/libs-msvc-universal/x64/openal32.lib  
+CMake Warning (dev) at C:/Users/velot/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.26/Modules/FindPackageHandleStandardArgs.cmake:438 (message):
+  The package name passed to `find_package_handle_standard_args` (VORBIS)
+  does not match the name of the calling package (Vorbis).  This can lead to
+  problems in calling code that expects `find_package` result variables
+  (e.g., `_FOUND`) to follow a certain pattern.
+Call Stack (most recent call first):
+  cmake-build-debug-visual-studio/_deps/sfml-src/cmake/Modules/FindVorbis.cmake:25 (find_package_handle_standard_args)
+  C:/Users/velot/.vcpkg-clion/vcpkg/scripts/buildsystems/vcpkg.cmake:859 (_find_package)
+  cmake-build-debug-visual-studio/_deps/sfml-src/cmake/Macros.cmake:279 (find_package)
+  cmake-build-debug-visual-studio/_deps/sfml-src/src/SFML/Audio/CMakeLists.txt:70 (sfml_find_package)
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Found VORBIS: D:/veloc/UNIAT/Semestre 5, Sept23-Ene24/Simuladores de Físicas/github/sim_fisicas_ADEO/VentanaSFLM/cmake-build-debug-visual-studio/_deps/sfml-src/extlibs/libs-msvc-universal/x64/vorbisenc.lib;D:/veloc/UNIAT/Semestre 5, Sept23-Ene24/Simuladores de Físicas/github/sim_fisicas_ADEO/VentanaSFLM/cmake-build-debug-visual-studio/_deps/sfml-src/extlibs/libs-msvc-universal/x64/vorbisfile.lib;D:/veloc/UNIAT/Semestre 5, Sept23-Ene24/Simuladores de Físicas/github/sim_fisicas_ADEO/VentanaSFLM/cmake-build-debug-visual-studio/_deps/sfml-src/extlibs/libs-msvc-universal/x64/vorbis.lib;D:/veloc/UNIAT/Semestre 5, Sept23-Ene24/Simuladores de Físicas/github/sim_fisicas_ADEO/VentanaSFLM/cmake-build-debug-visual-studio/_deps/sfml-src/extlibs/libs-msvc-universal/x64/ogg.lib  
+-- Found FLAC: D:/veloc/UNIAT/Semestre 5, Sept23-Ene24/Simuladores de Físicas/github/sim_fisicas_ADEO/VentanaSFLM/cmake-build-debug-visual-studio/_deps/sfml-src/extlibs/libs-msvc-universal/x64/flac.lib  
+-- Configuring done (114.3s)
+-- Generating done (0.1s)
+CMake Warning:
+  Manually-specified variables were not used by the project:
+
+    CMAKE_TOOLCHAIN_FILE
+
+
+-- Build files have been written to: D:/veloc/UNIAT/Semestre 5, Sept23-Ene24/Simuladores de Físicas/github/sim_fisicas_ADEO/VentanaSFLM/cmake-build-debug-visual-studio

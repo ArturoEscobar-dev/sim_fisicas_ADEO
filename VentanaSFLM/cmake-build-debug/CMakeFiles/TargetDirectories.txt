@@ -1,3 +1,0 @@
-D:/veloc/UNIAT/Semestre 5, Sept23-Ene24/Simuladores de Físicas/github/sim_fisicas_ADEO/VentanaSFLM/cmake-build-debug/CMakeFiles/VentanaSFLM.dir
-D:/veloc/UNIAT/Semestre 5, Sept23-Ene24/Simuladores de Físicas/github/sim_fisicas_ADEO/VentanaSFLM/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/veloc/UNIAT/Semestre 5, Sept23-Ene24/Simuladores de Físicas/github/sim_fisicas_ADEO/VentanaSFLM/cmake-build-debug/CMakeFiles/rebuild_cache.dir

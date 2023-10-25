@@ -109,20 +109,23 @@ events:
     checks:
       - "Detecting C compiler ABI info"
     directories:
-      source: "D:/veloc/UNIAT/Semestre 5, Sept23-Ene24/Simuladores de F\u00edsicas/github/sim_fisicas_ADEO/VentanaSFML/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-755vfq"
-      binary: "D:/veloc/UNIAT/Semestre 5, Sept23-Ene24/Simuladores de F\u00edsicas/github/sim_fisicas_ADEO/VentanaSFML/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-755vfq"
+      source: "D:/veloc/UNIAT/Semestre 5, Sept23-Ene24/Simuladores de F\u00edsicas/github/sim_fisicas_ADEO/VentanaSFML/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-mj8zn8"
+      binary: "D:/veloc/UNIAT/Semestre 5, Sept23-Ene24/Simuladores de F\u00edsicas/github/sim_fisicas_ADEO/VentanaSFML/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-mj8zn8"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS"
       CMAKE_C_FLAGS_DEBUG: "/Ob0 /Od /RTC1"
       CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      VCPKG_APPLOCAL_DEPS: "ON"
+      VCPKG_TARGET_TRIPLET: "x64-windows"
+      Z_VCPKG_ROOT_DIR: "C:/Users/velot/.vcpkg-clion/vcpkg"
     buildResult:
       variable: "CMAKE_C_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: D:/veloc/UNIAT/Semestre 5, Sept23-Ene24/Simuladores de Físicas/github/sim_fisicas_ADEO/VentanaSFML/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-755vfq
+        Change Dir: D:/veloc/UNIAT/Semestre 5, Sept23-Ene24/Simuladores de Físicas/github/sim_fisicas_ADEO/VentanaSFML/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-mj8zn8
         
-        Run Build Command(s):C:/Users/velot/AppData/Local/Programs/CLion/bin/ninja/win/x64/ninja.exe -v cmTC_5d3c5 && [1/2] C:\\PROGRA~2\\MIB055~1\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1427~1.291\\bin\\Hostx64\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS  /Ob0 /Od /RTC1 -MDd -Zi /showIncludes /FoCMakeFiles\\cmTC_5d3c5.dir\\CMakeCCompilerABI.c.obj /FdCMakeFiles\\cmTC_5d3c5.dir\\ /FS -c C:\\Users\\velot\\AppData\\Local\\Programs\\CLion\\bin\\cmake\\win\\x64\\share\\cmake-3.26\\Modules\\CMakeCCompilerABI.c
-        [2/2] cmd.exe /C "cd . && C:\\Users\\velot\\AppData\\Local\\Programs\\CLion\\bin\\cmake\\win\\x64\\bin\\cmake.exe -E vs_link_exe --intdir=CMakeFiles\\cmTC_5d3c5.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100183~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100183~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~2\\MIB055~1\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1427~1.291\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_5d3c5.dir\\CMakeCCompilerABI.c.obj  /out:cmTC_5d3c5.exe /implib:cmTC_5d3c5.lib /pdb:cmTC_5d3c5.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        Run Build Command(s):C:/Users/velot/AppData/Local/Programs/CLion/bin/ninja/win/x64/ninja.exe -v cmTC_6cf3a && [1/2] C:\\PROGRA~2\\MIB055~1\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1427~1.291\\bin\\Hostx64\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS  /Ob0 /Od /RTC1 -MDd -Zi /showIncludes /FoCMakeFiles\\cmTC_6cf3a.dir\\CMakeCCompilerABI.c.obj /FdCMakeFiles\\cmTC_6cf3a.dir\\ /FS -c C:\\Users\\velot\\AppData\\Local\\Programs\\CLion\\bin\\cmake\\win\\x64\\share\\cmake-3.26\\Modules\\CMakeCCompilerABI.c
+        [2/2] cmd.exe /C "cd . && C:\\Users\\velot\\AppData\\Local\\Programs\\CLion\\bin\\cmake\\win\\x64\\bin\\cmake.exe -E vs_link_exe --intdir=CMakeFiles\\cmTC_6cf3a.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100183~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100183~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~2\\MIB055~1\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1427~1.291\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_6cf3a.dir\\CMakeCCompilerABI.c.obj  /out:cmTC_6cf3a.exe /implib:cmTC_6cf3a.lib /pdb:cmTC_6cf3a.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cmd.exe /C "cd /D "D:\\veloc\\UNIAT\\Semestre 5, Sept23-Ene24\\Simuladores de FÝsicas\\github\\sim_fisicas_ADEO\\VentanaSFML\\cmake-build-debug\\CMakeFiles\\CMakeScratch\\TryCompile-mj8zn8" && C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe -noprofile -executionpolicy Bypass -file C:/Users/velot/.vcpkg-clion/vcpkg/scripts/buildsystems/msbuild/applocal.ps1 -targetBinary "D:/veloc/UNIAT/Semestre 5, Sept23-Ene24/Simuladores de FÝsicas/github/sim_fisicas_ADEO/VentanaSFML/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-mj8zn8/cmTC_6cf3a.exe" -installedDir C:/Users/velot/.vcpkg-clion/vcpkg/installed/x64-windows/debug/bin -OutVariable out""
         
       exitCode: 0
   -
@@ -134,20 +137,23 @@ events:
     checks:
       - "Detecting CXX compiler ABI info"
     directories:
-      source: "D:/veloc/UNIAT/Semestre 5, Sept23-Ene24/Simuladores de F\u00edsicas/github/sim_fisicas_ADEO/VentanaSFML/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-d7i7bt"
-      binary: "D:/veloc/UNIAT/Semestre 5, Sept23-Ene24/Simuladores de F\u00edsicas/github/sim_fisicas_ADEO/VentanaSFML/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-d7i7bt"
+      source: "D:/veloc/UNIAT/Semestre 5, Sept23-Ene24/Simuladores de F\u00edsicas/github/sim_fisicas_ADEO/VentanaSFML/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-5lhh34"
+      binary: "D:/veloc/UNIAT/Semestre 5, Sept23-Ene24/Simuladores de F\u00edsicas/github/sim_fisicas_ADEO/VentanaSFML/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-5lhh34"
     cmakeVariables:
       CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /EHsc"
       CMAKE_CXX_FLAGS_DEBUG: "/Ob0 /Od /RTC1"
       CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      VCPKG_APPLOCAL_DEPS: "ON"
+      VCPKG_TARGET_TRIPLET: "x64-windows"
+      Z_VCPKG_ROOT_DIR: "C:/Users/velot/.vcpkg-clion/vcpkg"
     buildResult:
       variable: "CMAKE_CXX_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: D:/veloc/UNIAT/Semestre 5, Sept23-Ene24/Simuladores de Físicas/github/sim_fisicas_ADEO/VentanaSFML/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-d7i7bt
+        Change Dir: D:/veloc/UNIAT/Semestre 5, Sept23-Ene24/Simuladores de Físicas/github/sim_fisicas_ADEO/VentanaSFML/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-5lhh34
         
-        Run Build Command(s):C:/Users/velot/AppData/Local/Programs/CLion/bin/ninja/win/x64/ninja.exe -v cmTC_4e4cf && [1/2] C:\\PROGRA~2\\MIB055~1\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1427~1.291\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /EHsc  /Ob0 /Od /RTC1 -MDd -Zi /showIncludes /FoCMakeFiles\\cmTC_4e4cf.dir\\CMakeCXXCompilerABI.cpp.obj /FdCMakeFiles\\cmTC_4e4cf.dir\\ /FS -c C:\\Users\\velot\\AppData\\Local\\Programs\\CLion\\bin\\cmake\\win\\x64\\share\\cmake-3.26\\Modules\\CMakeCXXCompilerABI.cpp
-        [2/2] cmd.exe /C "cd . && C:\\Users\\velot\\AppData\\Local\\Programs\\CLion\\bin\\cmake\\win\\x64\\bin\\cmake.exe -E vs_link_exe --intdir=CMakeFiles\\cmTC_4e4cf.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100183~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100183~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~2\\MIB055~1\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1427~1.291\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_4e4cf.dir\\CMakeCXXCompilerABI.cpp.obj  /out:cmTC_4e4cf.exe /implib:cmTC_4e4cf.lib /pdb:cmTC_4e4cf.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        Run Build Command(s):C:/Users/velot/AppData/Local/Programs/CLion/bin/ninja/win/x64/ninja.exe -v cmTC_263a2 && [1/2] C:\\PROGRA~2\\MIB055~1\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1427~1.291\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /EHsc  /Ob0 /Od /RTC1 -MDd -Zi /showIncludes /FoCMakeFiles\\cmTC_263a2.dir\\CMakeCXXCompilerABI.cpp.obj /FdCMakeFiles\\cmTC_263a2.dir\\ /FS -c C:\\Users\\velot\\AppData\\Local\\Programs\\CLion\\bin\\cmake\\win\\x64\\share\\cmake-3.26\\Modules\\CMakeCXXCompilerABI.cpp
+        [2/2] cmd.exe /C "cd . && C:\\Users\\velot\\AppData\\Local\\Programs\\CLion\\bin\\cmake\\win\\x64\\bin\\cmake.exe -E vs_link_exe --intdir=CMakeFiles\\cmTC_263a2.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100183~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100183~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~2\\MIB055~1\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1427~1.291\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_263a2.dir\\CMakeCXXCompilerABI.cpp.obj  /out:cmTC_263a2.exe /implib:cmTC_263a2.lib /pdb:cmTC_263a2.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cmd.exe /C "cd /D "D:\\veloc\\UNIAT\\Semestre 5, Sept23-Ene24\\Simuladores de FÝsicas\\github\\sim_fisicas_ADEO\\VentanaSFML\\cmake-build-debug\\CMakeFiles\\CMakeScratch\\TryCompile-5lhh34" && C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe -noprofile -executionpolicy Bypass -file C:/Users/velot/.vcpkg-clion/vcpkg/scripts/buildsystems/msbuild/applocal.ps1 -targetBinary "D:/veloc/UNIAT/Semestre 5, Sept23-Ene24/Simuladores de FÝsicas/github/sim_fisicas_ADEO/VentanaSFML/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-5lhh34/cmTC_263a2.exe" -installedDir C:/Users/velot/.vcpkg-clion/vcpkg/installed/x64-windows/debug/bin -OutVariable out""
         
       exitCode: 0
 ...

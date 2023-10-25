@@ -1,0 +1,21 @@
+# ninja log v5
+1	73	7199127281863884	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-mkdir	262df7b1cd0eaccb
+1	73	7199127281863884	D:/veloc/UNIAT/Semestre 5, Sept23-Ene24/Simuladores de Físicas/github/sim_fisicas_ADEO/VentanaSFML/cmake-build-debug-visual-studio/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-mkdir	262df7b1cd0eaccb
+73	107497	7199128356102000	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-download	b6ee88ac7fc4c993
+73	107497	7199128356102000	D:/veloc/UNIAT/Semestre 5, Sept23-Ene24/Simuladores de Físicas/github/sim_fisicas_ADEO/VentanaSFML/cmake-build-debug-visual-studio/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-download	b6ee88ac7fc4c993
+107497	107677	0	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update	d5099f921e11ef03
+107497	107677	0	D:/veloc/UNIAT/Semestre 5, Sept23-Ene24/Simuladores de Físicas/github/sim_fisicas_ADEO/VentanaSFML/cmake-build-debug-visual-studio/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update	d5099f921e11ef03
+107677	107749	7199128358612600	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch	cc9462036b85c7ab
+107677	107749	7199128358612600	D:/veloc/UNIAT/Semestre 5, Sept23-Ene24/Simuladores de Físicas/github/sim_fisicas_ADEO/VentanaSFML/cmake-build-debug-visual-studio/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch	cc9462036b85c7ab
+107749	107823	7199128359360695	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure	65bf61b2ce97fc52
+107749	107823	7199128359360695	D:/veloc/UNIAT/Semestre 5, Sept23-Ene24/Simuladores de Físicas/github/sim_fisicas_ADEO/VentanaSFML/cmake-build-debug-visual-studio/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure	65bf61b2ce97fc52
+107823	107895	7199128360082943	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build	c846809c0bf1dc29
+107823	107895	7199128360082943	D:/veloc/UNIAT/Semestre 5, Sept23-Ene24/Simuladores de Físicas/github/sim_fisicas_ADEO/VentanaSFML/cmake-build-debug-visual-studio/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build	c846809c0bf1dc29
+107895	107969	7199128360828602	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install	485c22820e0c1ad4
+107895	107969	7199128360828602	D:/veloc/UNIAT/Semestre 5, Sept23-Ene24/Simuladores de Físicas/github/sim_fisicas_ADEO/VentanaSFML/cmake-build-debug-visual-studio/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install	485c22820e0c1ad4
+107969	108041	7199128361538547	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-test	b3fe0dd16489f5e6
+107969	108041	7199128361538547	D:/veloc/UNIAT/Semestre 5, Sept23-Ene24/Simuladores de Físicas/github/sim_fisicas_ADEO/VentanaSFML/cmake-build-debug-visual-studio/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-test	b3fe0dd16489f5e6
+108041	108139	7199128362524443	CMakeFiles/sfml-populate-complete	d2e591d7096721d2
+108041	108139	7199128362524443	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-done	d2e591d7096721d2
+108041	108139	7199128362524443	D:/veloc/UNIAT/Semestre 5, Sept23-Ene24/Simuladores de Físicas/github/sim_fisicas_ADEO/VentanaSFML/cmake-build-debug-visual-studio/_deps/sfml-subbuild/CMakeFiles/sfml-populate-complete	d2e591d7096721d2
+108041	108139	7199128362524443	D:/veloc/UNIAT/Semestre 5, Sept23-Ene24/Simuladores de Físicas/github/sim_fisicas_ADEO/VentanaSFML/cmake-build-debug-visual-studio/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-done	d2e591d7096721d2

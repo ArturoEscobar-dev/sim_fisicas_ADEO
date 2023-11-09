@@ -1,0 +1,275 @@
+
+---
+events:
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Users/velot/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeDetermineSystem.cmake:204 (message)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      The system is: Windows - 10.0.22621 - AMD64
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Users/velot/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "C:/Users/velot/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "C:/Users/velot/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+      Compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.27.29110/bin/Hostx64/x64/cl.exe 
+      Build flags: 
+      Id flags:  
+      
+      The output was:
+      0
+      Compilador de optimización de C/C++ de Microsoft (R) versión 19.27.29111 para x64
+      (C) Microsoft Corporation. Todos los derechos reservados.
+      
+      CMakeCCompilerId.c
+      Microsoft (R) Incremental Linker Version 14.27.29111.0
+      Copyright (C) Microsoft Corporation.  All rights reserved.
+      
+      /out:CMakeCCompilerId.exe 
+      CMakeCCompilerId.obj 
+      
+      
+      Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+      
+      Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+      
+      The C compiler identification is MSVC, found in:
+        D:/veloc/UNIAT/Semestre 5, Sept23-Ene24/Simuladores de Físicas/github/sim_fisicas_ADEO/Proyeto_Hola_Goldberg/cmake-build-debug-visual-studio/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.exe
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Users/velot/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeDetermineCompilerId.cmake:1153 (message)"
+      - "C:/Users/velot/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeDetermineCompilerId.cmake:221 (CMAKE_DETERMINE_MSVC_SHOWINCLUDES_PREFIX)"
+      - "C:/Users/velot/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Detecting C compiler /showIncludes prefix:
+        main.c
+        Nota: inclusión del archivo: D:\\veloc\\UNIAT\\Semestre 5, Sept23-Ene24\\Simuladores de Físicas\\github\\sim_fisicas_ADEO\\Proyeto_Hola_Goldberg\\cmake-build-debug-visual-studio\\CMakeFiles\\ShowIncludes\\foo.h
+        
+      Found prefix "Nota: inclusión del archivo: "
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Users/velot/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "C:/Users/velot/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "C:/Users/velot/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+      Compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.27.29110/bin/Hostx64/x64/cl.exe 
+      Build flags: 
+      Id flags:  
+      
+      The output was:
+      0
+      Compilador de optimización de C/C++ de Microsoft (R) versión 19.27.29111 para x64
+      (C) Microsoft Corporation. Todos los derechos reservados.
+      
+      CMakeCXXCompilerId.cpp
+      Microsoft (R) Incremental Linker Version 14.27.29111.0
+      Copyright (C) Microsoft Corporation.  All rights reserved.
+      
+      /out:CMakeCXXCompilerId.exe 
+      CMakeCXXCompilerId.obj 
+      
+      
+      Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.exe"
+      
+      Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.obj"
+      
+      The CXX compiler identification is MSVC, found in:
+        D:/veloc/UNIAT/Semestre 5, Sept23-Ene24/Simuladores de Físicas/github/sim_fisicas_ADEO/Proyeto_Hola_Goldberg/cmake-build-debug-visual-studio/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.exe
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Users/velot/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeDetermineCompilerId.cmake:1153 (message)"
+      - "C:/Users/velot/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeDetermineCompilerId.cmake:221 (CMAKE_DETERMINE_MSVC_SHOWINCLUDES_PREFIX)"
+      - "C:/Users/velot/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Detecting CXX compiler /showIncludes prefix:
+        main.c
+        Nota: inclusión del archivo: D:\\veloc\\UNIAT\\Semestre 5, Sept23-Ene24\\Simuladores de Físicas\\github\\sim_fisicas_ADEO\\Proyeto_Hola_Goldberg\\cmake-build-debug-visual-studio\\CMakeFiles\\ShowIncludes\\foo.h
+        
+      Found prefix "Nota: inclusión del archivo: "
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Users/velot/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeDetermineCompilerABI.cmake:57 (try_compile)"
+      - "C:/Users/velot/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeTestCCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:2 (project)"
+    checks:
+      - "Detecting C compiler ABI info"
+    directories:
+      source: "D:/veloc/UNIAT/Semestre 5, Sept23-Ene24/Simuladores de F\u00edsicas/github/sim_fisicas_ADEO/Proyeto_Hola_Goldberg/cmake-build-debug-visual-studio/CMakeFiles/CMakeScratch/TryCompile-cuf8rm"
+      binary: "D:/veloc/UNIAT/Semestre 5, Sept23-Ene24/Simuladores de F\u00edsicas/github/sim_fisicas_ADEO/Proyeto_Hola_Goldberg/cmake-build-debug-visual-studio/CMakeFiles/CMakeScratch/TryCompile-cuf8rm"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS"
+      CMAKE_C_FLAGS_DEBUG: "/Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      VCPKG_APPLOCAL_DEPS: "ON"
+      VCPKG_TARGET_TRIPLET: "x64-windows"
+      Z_VCPKG_ROOT_DIR: "C:/Users/velot/.vcpkg-clion/vcpkg"
+    buildResult:
+      variable: "CMAKE_C_ABI_COMPILED"
+      cached: true
+      stdout: |
+        Change Dir: D:/veloc/UNIAT/Semestre 5, Sept23-Ene24/Simuladores de Físicas/github/sim_fisicas_ADEO/Proyeto_Hola_Goldberg/cmake-build-debug-visual-studio/CMakeFiles/CMakeScratch/TryCompile-cuf8rm
+        
+        Run Build Command(s):C:/Users/velot/AppData/Local/Programs/CLion/bin/ninja/win/x64/ninja.exe -v cmTC_e0c04 && [1/2] C:\\PROGRA~2\\MIB055~1\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1427~1.291\\bin\\Hostx64\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS  /Ob0 /Od /RTC1 -MDd -Zi /showIncludes /FoCMakeFiles\\cmTC_e0c04.dir\\CMakeCCompilerABI.c.obj /FdCMakeFiles\\cmTC_e0c04.dir\\ /FS -c C:\\Users\\velot\\AppData\\Local\\Programs\\CLion\\bin\\cmake\\win\\x64\\share\\cmake-3.26\\Modules\\CMakeCCompilerABI.c
+        [2/2] cmd.exe /C "cd . && C:\\Users\\velot\\AppData\\Local\\Programs\\CLion\\bin\\cmake\\win\\x64\\bin\\cmake.exe -E vs_link_exe --intdir=CMakeFiles\\cmTC_e0c04.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100183~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100183~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~2\\MIB055~1\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1427~1.291\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_e0c04.dir\\CMakeCCompilerABI.c.obj  /out:cmTC_e0c04.exe /implib:cmTC_e0c04.lib /pdb:cmTC_e0c04.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cmd.exe /C "cd /D "D:\\veloc\\UNIAT\\Semestre 5, Sept23-Ene24\\Simuladores de FÝsicas\\github\\sim_fisicas_ADEO\\Proyeto_Hola_Goldberg\\cmake-build-debug-visual-studio\\CMakeFiles\\CMakeScratch\\TryCompile-cuf8rm" && C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe -noprofile -executionpolicy Bypass -file C:/Users/velot/.vcpkg-clion/vcpkg/scripts/buildsystems/msbuild/applocal.ps1 -targetBinary "D:/veloc/UNIAT/Semestre 5, Sept23-Ene24/Simuladores de FÝsicas/github/sim_fisicas_ADEO/Proyeto_Hola_Goldberg/cmake-build-debug-visual-studio/CMakeFiles/CMakeScratch/TryCompile-cuf8rm/cmTC_e0c04.exe" -installedDir C:/Users/velot/.vcpkg-clion/vcpkg/installed/x64-windows/debug/bin -OutVariable out""
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Users/velot/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeDetermineCompilerABI.cmake:57 (try_compile)"
+      - "C:/Users/velot/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeTestCXXCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:2 (project)"
+    checks:
+      - "Detecting CXX compiler ABI info"
+    directories:
+      source: "D:/veloc/UNIAT/Semestre 5, Sept23-Ene24/Simuladores de F\u00edsicas/github/sim_fisicas_ADEO/Proyeto_Hola_Goldberg/cmake-build-debug-visual-studio/CMakeFiles/CMakeScratch/TryCompile-np8voy"
+      binary: "D:/veloc/UNIAT/Semestre 5, Sept23-Ene24/Simuladores de F\u00edsicas/github/sim_fisicas_ADEO/Proyeto_Hola_Goldberg/cmake-build-debug-visual-studio/CMakeFiles/CMakeScratch/TryCompile-np8voy"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /EHsc"
+      CMAKE_CXX_FLAGS_DEBUG: "/Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      VCPKG_APPLOCAL_DEPS: "ON"
+      VCPKG_TARGET_TRIPLET: "x64-windows"
+      Z_VCPKG_ROOT_DIR: "C:/Users/velot/.vcpkg-clion/vcpkg"
+    buildResult:
+      variable: "CMAKE_CXX_ABI_COMPILED"
+      cached: true
+      stdout: |
+        Change Dir: D:/veloc/UNIAT/Semestre 5, Sept23-Ene24/Simuladores de Físicas/github/sim_fisicas_ADEO/Proyeto_Hola_Goldberg/cmake-build-debug-visual-studio/CMakeFiles/CMakeScratch/TryCompile-np8voy
+        
+        Run Build Command(s):C:/Users/velot/AppData/Local/Programs/CLion/bin/ninja/win/x64/ninja.exe -v cmTC_06b7d && [1/2] C:\\PROGRA~2\\MIB055~1\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1427~1.291\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /EHsc  /Ob0 /Od /RTC1 -MDd -Zi /showIncludes /FoCMakeFiles\\cmTC_06b7d.dir\\CMakeCXXCompilerABI.cpp.obj /FdCMakeFiles\\cmTC_06b7d.dir\\ /FS -c C:\\Users\\velot\\AppData\\Local\\Programs\\CLion\\bin\\cmake\\win\\x64\\share\\cmake-3.26\\Modules\\CMakeCXXCompilerABI.cpp
+        [2/2] cmd.exe /C "cd . && C:\\Users\\velot\\AppData\\Local\\Programs\\CLion\\bin\\cmake\\win\\x64\\bin\\cmake.exe -E vs_link_exe --intdir=CMakeFiles\\cmTC_06b7d.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100183~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100183~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~2\\MIB055~1\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1427~1.291\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_06b7d.dir\\CMakeCXXCompilerABI.cpp.obj  /out:cmTC_06b7d.exe /implib:cmTC_06b7d.lib /pdb:cmTC_06b7d.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cmd.exe /C "cd /D "D:\\veloc\\UNIAT\\Semestre 5, Sept23-Ene24\\Simuladores de FÝsicas\\github\\sim_fisicas_ADEO\\Proyeto_Hola_Goldberg\\cmake-build-debug-visual-studio\\CMakeFiles\\CMakeScratch\\TryCompile-np8voy" && C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe -noprofile -executionpolicy Bypass -file C:/Users/velot/.vcpkg-clion/vcpkg/scripts/buildsystems/msbuild/applocal.ps1 -targetBinary "D:/veloc/UNIAT/Semestre 5, Sept23-Ene24/Simuladores de FÝsicas/github/sim_fisicas_ADEO/Proyeto_Hola_Goldberg/cmake-build-debug-visual-studio/CMakeFiles/CMakeScratch/TryCompile-np8voy/cmTC_06b7d.exe" -installedDir C:/Users/velot/.vcpkg-clion/vcpkg/installed/x64-windows/debug/bin -OutVariable out""
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Users/velot/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.26/Modules/CheckIncludeFile.cmake:95 (try_compile)"
+      - "C:/Users/velot/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.26/Modules/CheckTypeSize.cmake:252 (check_include_file)"
+      - "cmake-build-debug-visual-studio/_deps/sfml-src/cmake/Config.cmake:10 (check_type_size)"
+      - "cmake-build-debug-visual-studio/_deps/sfml-src/CMakeLists.txt:48 (include)"
+    checks:
+      - "Looking for sys/types.h"
+    directories:
+      source: "D:/veloc/UNIAT/Semestre 5, Sept23-Ene24/Simuladores de F\u00edsicas/github/sim_fisicas_ADEO/Proyeto_Hola_Goldberg/cmake-build-debug-visual-studio/CMakeFiles/CMakeScratch/TryCompile-i0bh0r"
+      binary: "D:/veloc/UNIAT/Semestre 5, Sept23-Ene24/Simuladores de F\u00edsicas/github/sim_fisicas_ADEO/Proyeto_Hola_Goldberg/cmake-build-debug-visual-studio/CMakeFiles/CMakeScratch/TryCompile-i0bh0r"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS"
+      CMAKE_OSX_ARCHITECTURES: "x86_64"
+      CMAKE_OSX_SYSROOT: ""
+      VCPKG_APPLOCAL_DEPS: "ON"
+      VCPKG_TARGET_TRIPLET: "x64-windows"
+      Z_VCPKG_ROOT_DIR: "C:/Users/velot/.vcpkg-clion/vcpkg"
+    buildResult:
+      variable: "HAVE_SYS_TYPES_H"
+      cached: true
+      stdout: |
+        Change Dir: D:/veloc/UNIAT/Semestre 5, Sept23-Ene24/Simuladores de Físicas/github/sim_fisicas_ADEO/Proyeto_Hola_Goldberg/cmake-build-debug-visual-studio/CMakeFiles/CMakeScratch/TryCompile-i0bh0r
+        
+        Run Build Command(s):C:/Users/velot/AppData/Local/Programs/CLion/bin/ninja/win/x64/ninja.exe -v cmTC_8307c && [1/2] C:\\PROGRA~2\\MIB055~1\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1427~1.291\\bin\\Hostx64\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS  /Ob0 /Od /RTC1 -MDd -Zi /showIncludes /FoCMakeFiles\\cmTC_8307c.dir\\CheckIncludeFile.c.obj /FdCMakeFiles\\cmTC_8307c.dir\\ /FS -c "D:\\veloc\\UNIAT\\Semestre 5, Sept23-Ene24\\Simuladores de FÝsicas\\github\\sim_fisicas_ADEO\\Proyeto_Hola_Goldberg\\cmake-build-debug-visual-studio\\CMakeFiles\\CMakeScratch\\TryCompile-i0bh0r\\CheckIncludeFile.c"
+        [2/2] cmd.exe /C "cd . && C:\\Users\\velot\\AppData\\Local\\Programs\\CLion\\bin\\cmake\\win\\x64\\bin\\cmake.exe -E vs_link_exe --intdir=CMakeFiles\\cmTC_8307c.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100183~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100183~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~2\\MIB055~1\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1427~1.291\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_8307c.dir\\CheckIncludeFile.c.obj  /out:cmTC_8307c.exe /implib:cmTC_8307c.lib /pdb:cmTC_8307c.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cmd.exe /C "cd /D "D:\\veloc\\UNIAT\\Semestre 5, Sept23-Ene24\\Simuladores de FÝsicas\\github\\sim_fisicas_ADEO\\Proyeto_Hola_Goldberg\\cmake-build-debug-visual-studio\\CMakeFiles\\CMakeScratch\\TryCompile-i0bh0r" && C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe -noprofile -executionpolicy Bypass -file C:/Users/velot/.vcpkg-clion/vcpkg/scripts/buildsystems/msbuild/applocal.ps1 -targetBinary "D:/veloc/UNIAT/Semestre 5, Sept23-Ene24/Simuladores de FÝsicas/github/sim_fisicas_ADEO/Proyeto_Hola_Goldberg/cmake-build-debug-visual-studio/CMakeFiles/CMakeScratch/TryCompile-i0bh0r/cmTC_8307c.exe" -installedDir C:/Users/velot/.vcpkg-clion/vcpkg/installed/x64-windows/debug/bin -OutVariable out""
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Users/velot/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.26/Modules/CheckIncludeFile.cmake:95 (try_compile)"
+      - "C:/Users/velot/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.26/Modules/CheckTypeSize.cmake:253 (check_include_file)"
+      - "cmake-build-debug-visual-studio/_deps/sfml-src/cmake/Config.cmake:10 (check_type_size)"
+      - "cmake-build-debug-visual-studio/_deps/sfml-src/CMakeLists.txt:48 (include)"
+    checks:
+      - "Looking for stdint.h"
+    directories:
+      source: "D:/veloc/UNIAT/Semestre 5, Sept23-Ene24/Simuladores de F\u00edsicas/github/sim_fisicas_ADEO/Proyeto_Hola_Goldberg/cmake-build-debug-visual-studio/CMakeFiles/CMakeScratch/TryCompile-xbkrgz"
+      binary: "D:/veloc/UNIAT/Semestre 5, Sept23-Ene24/Simuladores de F\u00edsicas/github/sim_fisicas_ADEO/Proyeto_Hola_Goldberg/cmake-build-debug-visual-studio/CMakeFiles/CMakeScratch/TryCompile-xbkrgz"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS"
+      CMAKE_OSX_ARCHITECTURES: "x86_64"
+      CMAKE_OSX_SYSROOT: ""
+      VCPKG_APPLOCAL_DEPS: "ON"
+      VCPKG_TARGET_TRIPLET: "x64-windows"
+      Z_VCPKG_ROOT_DIR: "C:/Users/velot/.vcpkg-clion/vcpkg"
+    buildResult:
+      variable: "HAVE_STDINT_H"
+      cached: true
+      stdout: |
+        Change Dir: D:/veloc/UNIAT/Semestre 5, Sept23-Ene24/Simuladores de Físicas/github/sim_fisicas_ADEO/Proyeto_Hola_Goldberg/cmake-build-debug-visual-studio/CMakeFiles/CMakeScratch/TryCompile-xbkrgz
+        
+        Run Build Command(s):C:/Users/velot/AppData/Local/Programs/CLion/bin/ninja/win/x64/ninja.exe -v cmTC_9b077 && [1/2] C:\\PROGRA~2\\MIB055~1\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1427~1.291\\bin\\Hostx64\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS  /Ob0 /Od /RTC1 -MDd -Zi /showIncludes /FoCMakeFiles\\cmTC_9b077.dir\\CheckIncludeFile.c.obj /FdCMakeFiles\\cmTC_9b077.dir\\ /FS -c "D:\\veloc\\UNIAT\\Semestre 5, Sept23-Ene24\\Simuladores de FÝsicas\\github\\sim_fisicas_ADEO\\Proyeto_Hola_Goldberg\\cmake-build-debug-visual-studio\\CMakeFiles\\CMakeScratch\\TryCompile-xbkrgz\\CheckIncludeFile.c"
+        [2/2] cmd.exe /C "cd . && C:\\Users\\velot\\AppData\\Local\\Programs\\CLion\\bin\\cmake\\win\\x64\\bin\\cmake.exe -E vs_link_exe --intdir=CMakeFiles\\cmTC_9b077.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100183~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100183~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~2\\MIB055~1\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1427~1.291\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_9b077.dir\\CheckIncludeFile.c.obj  /out:cmTC_9b077.exe /implib:cmTC_9b077.lib /pdb:cmTC_9b077.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cmd.exe /C "cd /D "D:\\veloc\\UNIAT\\Semestre 5, Sept23-Ene24\\Simuladores de FÝsicas\\github\\sim_fisicas_ADEO\\Proyeto_Hola_Goldberg\\cmake-build-debug-visual-studio\\CMakeFiles\\CMakeScratch\\TryCompile-xbkrgz" && C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe -noprofile -executionpolicy Bypass -file C:/Users/velot/.vcpkg-clion/vcpkg/scripts/buildsystems/msbuild/applocal.ps1 -targetBinary "D:/veloc/UNIAT/Semestre 5, Sept23-Ene24/Simuladores de FÝsicas/github/sim_fisicas_ADEO/Proyeto_Hola_Goldberg/cmake-build-debug-visual-studio/CMakeFiles/CMakeScratch/TryCompile-xbkrgz/cmTC_9b077.exe" -installedDir C:/Users/velot/.vcpkg-clion/vcpkg/installed/x64-windows/debug/bin -OutVariable out""
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Users/velot/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.26/Modules/CheckIncludeFile.cmake:95 (try_compile)"
+      - "C:/Users/velot/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.26/Modules/CheckTypeSize.cmake:254 (check_include_file)"
+      - "cmake-build-debug-visual-studio/_deps/sfml-src/cmake/Config.cmake:10 (check_type_size)"
+      - "cmake-build-debug-visual-studio/_deps/sfml-src/CMakeLists.txt:48 (include)"
+    checks:
+      - "Looking for stddef.h"
+    directories:
+      source: "D:/veloc/UNIAT/Semestre 5, Sept23-Ene24/Simuladores de F\u00edsicas/github/sim_fisicas_ADEO/Proyeto_Hola_Goldberg/cmake-build-debug-visual-studio/CMakeFiles/CMakeScratch/TryCompile-21vqep"
+      binary: "D:/veloc/UNIAT/Semestre 5, Sept23-Ene24/Simuladores de F\u00edsicas/github/sim_fisicas_ADEO/Proyeto_Hola_Goldberg/cmake-build-debug-visual-studio/CMakeFiles/CMakeScratch/TryCompile-21vqep"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS"
+      CMAKE_OSX_ARCHITECTURES: "x86_64"
+      CMAKE_OSX_SYSROOT: ""
+      VCPKG_APPLOCAL_DEPS: "ON"
+      VCPKG_TARGET_TRIPLET: "x64-windows"
+      Z_VCPKG_ROOT_DIR: "C:/Users/velot/.vcpkg-clion/vcpkg"
+    buildResult:
+      variable: "HAVE_STDDEF_H"
+      cached: true
+      stdout: |
+        Change Dir: D:/veloc/UNIAT/Semestre 5, Sept23-Ene24/Simuladores de Físicas/github/sim_fisicas_ADEO/Proyeto_Hola_Goldberg/cmake-build-debug-visual-studio/CMakeFiles/CMakeScratch/TryCompile-21vqep
+        
+        Run Build Command(s):C:/Users/velot/AppData/Local/Programs/CLion/bin/ninja/win/x64/ninja.exe -v cmTC_6d4ee && [1/2] C:\\PROGRA~2\\MIB055~1\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1427~1.291\\bin\\Hostx64\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS  /Ob0 /Od /RTC1 -MDd -Zi /showIncludes /FoCMakeFiles\\cmTC_6d4ee.dir\\CheckIncludeFile.c.obj /FdCMakeFiles\\cmTC_6d4ee.dir\\ /FS -c "D:\\veloc\\UNIAT\\Semestre 5, Sept23-Ene24\\Simuladores de FÝsicas\\github\\sim_fisicas_ADEO\\Proyeto_Hola_Goldberg\\cmake-build-debug-visual-studio\\CMakeFiles\\CMakeScratch\\TryCompile-21vqep\\CheckIncludeFile.c"
+        [2/2] cmd.exe /C "cd . && C:\\Users\\velot\\AppData\\Local\\Programs\\CLion\\bin\\cmake\\win\\x64\\bin\\cmake.exe -E vs_link_exe --intdir=CMakeFiles\\cmTC_6d4ee.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100183~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100183~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~2\\MIB055~1\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1427~1.291\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_6d4ee.dir\\CheckIncludeFile.c.obj  /out:cmTC_6d4ee.exe /implib:cmTC_6d4ee.lib /pdb:cmTC_6d4ee.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cmd.exe /C "cd /D "D:\\veloc\\UNIAT\\Semestre 5, Sept23-Ene24\\Simuladores de FÝsicas\\github\\sim_fisicas_ADEO\\Proyeto_Hola_Goldberg\\cmake-build-debug-visual-studio\\CMakeFiles\\CMakeScratch\\TryCompile-21vqep" && C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe -noprofile -executionpolicy Bypass -file C:/Users/velot/.vcpkg-clion/vcpkg/scripts/buildsystems/msbuild/applocal.ps1 -targetBinary "D:/veloc/UNIAT/Semestre 5, Sept23-Ene24/Simuladores de FÝsicas/github/sim_fisicas_ADEO/Proyeto_Hola_Goldberg/cmake-build-debug-visual-studio/CMakeFiles/CMakeScratch/TryCompile-21vqep/cmTC_6d4ee.exe" -installedDir C:/Users/velot/.vcpkg-clion/vcpkg/installed/x64-windows/debug/bin -OutVariable out""
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Users/velot/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.26/Modules/CheckTypeSize.cmake:148 (try_compile)"
+      - "C:/Users/velot/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.26/Modules/CheckTypeSize.cmake:273 (__check_type_size_impl)"
+      - "cmake-build-debug-visual-studio/_deps/sfml-src/cmake/Config.cmake:10 (check_type_size)"
+      - "cmake-build-debug-visual-studio/_deps/sfml-src/CMakeLists.txt:48 (include)"
+    checks:
+      - "Check size of void*"
+    directories:
+      source: "D:/veloc/UNIAT/Semestre 5, Sept23-Ene24/Simuladores de F\u00edsicas/github/sim_fisicas_ADEO/Proyeto_Hola_Goldberg/cmake-build-debug-visual-studio/CMakeFiles/CMakeScratch/TryCompile-w443f7"
+      binary: "D:/veloc/UNIAT/Semestre 5, Sept23-Ene24/Simuladores de F\u00edsicas/github/sim_fisicas_ADEO/Proyeto_Hola_Goldberg/cmake-build-debug-visual-studio/CMakeFiles/CMakeScratch/TryCompile-w443f7"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS"
+      CMAKE_OSX_ARCHITECTURES: "x86_64"
+      CMAKE_OSX_SYSROOT: ""
+      VCPKG_APPLOCAL_DEPS: "ON"
+      VCPKG_TARGET_TRIPLET: "x64-windows"
+      Z_VCPKG_ROOT_DIR: "C:/Users/velot/.vcpkg-clion/vcpkg"
+    buildResult:
+      variable: "HAVE_SIZEOF_VOID_PTR"
+      cached: true
+      stdout: |
+        Change Dir: D:/veloc/UNIAT/Semestre 5, Sept23-Ene24/Simuladores de Físicas/github/sim_fisicas_ADEO/Proyeto_Hola_Goldberg/cmake-build-debug-visual-studio/CMakeFiles/CMakeScratch/TryCompile-w443f7
+        
+        Run Build Command(s):C:/Users/velot/AppData/Local/Programs/CLion/bin/ninja/win/x64/ninja.exe -v cmTC_09f41 && [1/2] C:\\PROGRA~2\\MIB055~1\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1427~1.291\\bin\\Hostx64\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS  /Ob0 /Od /RTC1 -MDd -Zi /showIncludes /FoCMakeFiles\\cmTC_09f41.dir\\SIZEOF_VOID_PTR.c.obj /FdCMakeFiles\\cmTC_09f41.dir\\ /FS -c "D:\\veloc\\UNIAT\\Semestre 5, Sept23-Ene24\\Simuladores de FÝsicas\\github\\sim_fisicas_ADEO\\Proyeto_Hola_Goldberg\\cmake-build-debug-visual-studio\\CMakeFiles\\CMakeScratch\\TryCompile-w443f7\\SIZEOF_VOID_PTR.c"
+        [2/2] cmd.exe /C "cd . && C:\\Users\\velot\\AppData\\Local\\Programs\\CLion\\bin\\cmake\\win\\x64\\bin\\cmake.exe -E vs_link_exe --intdir=CMakeFiles\\cmTC_09f41.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100183~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100183~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~2\\MIB055~1\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1427~1.291\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_09f41.dir\\SIZEOF_VOID_PTR.c.obj  /out:cmTC_09f41.exe /implib:cmTC_09f41.lib /pdb:cmTC_09f41.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cmd.exe /C "cd /D "D:\\veloc\\UNIAT\\Semestre 5, Sept23-Ene24\\Simuladores de FÝsicas\\github\\sim_fisicas_ADEO\\Proyeto_Hola_Goldberg\\cmake-build-debug-visual-studio\\CMakeFiles\\CMakeScratch\\TryCompile-w443f7" && C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe -noprofile -executionpolicy Bypass -file C:/Users/velot/.vcpkg-clion/vcpkg/scripts/buildsystems/msbuild/applocal.ps1 -targetBinary "D:/veloc/UNIAT/Semestre 5, Sept23-Ene24/Simuladores de FÝsicas/github/sim_fisicas_ADEO/Proyeto_Hola_Goldberg/cmake-build-debug-visual-studio/CMakeFiles/CMakeScratch/TryCompile-w443f7/cmTC_09f41.exe" -installedDir C:/Users/velot/.vcpkg-clion/vcpkg/installed/x64-windows/debug/bin -OutVariable out""
+        
+      exitCode: 0
+...

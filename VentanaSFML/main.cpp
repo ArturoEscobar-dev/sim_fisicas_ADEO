@@ -1,5 +1,6 @@
 #include <SFML/Graphics.hpp>
 #include <Box2D/Box2D.h>
+#include <iostream>
 
 constexpr float SCALE = 30.0f;
 
@@ -58,6 +59,8 @@ int main() {
 
     Cube cube(world, 400, 300);
 
+    Cube cube2(world, 200, 300);
+
     while (window.isOpen()) {
         sf::Event event;
         while (window.pollEvent(event)) {
@@ -94,9 +97,10 @@ int main() {
 
         world.Step(1 / 60.f, 8, 3);
         cube.update();
-
+        cube2.update();
         window.clear();
         cube.draw(window);
+        cube2.draw(window);
         window.display();
     }
     return 0;

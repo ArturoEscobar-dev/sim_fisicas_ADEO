@@ -10,6 +10,7 @@ FETCHCONTENT_MAKEAVAILABLE(SFML)
 set(CMAKE_CXX_STANDARD 17)
 
 
-add_executable(VentanaSFML main.cpp)
+add_executable(VentanaSFML main.cpp
+)
 find_package(box2d CONFIG REQUIRED)
 target_link_libraries(VentanaSFML PRIVATE box2d::box2d sfml-system sfml-window sfml-graphics sfml-audio)

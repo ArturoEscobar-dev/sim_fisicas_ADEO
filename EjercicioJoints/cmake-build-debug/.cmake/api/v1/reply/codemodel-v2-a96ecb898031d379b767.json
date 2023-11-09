@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "EjercicioJoints",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "EjercicioJoints::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-EjercicioJoints-Debug-fdb99568aa06d8ae31b8.json",
+					"name" : "EjercicioJoints",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/veloc/UNIAT/Semestre 5, Sept23-Ene24/Simuladores de F\u00edsicas/github/sim_fisicas_ADEO/EjercicioJoints/cmake-build-debug",
+		"source" : "D:/veloc/UNIAT/Semestre 5, Sept23-Ene24/Simuladores de F\u00edsicas/github/sim_fisicas_ADEO/EjercicioJoints"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}

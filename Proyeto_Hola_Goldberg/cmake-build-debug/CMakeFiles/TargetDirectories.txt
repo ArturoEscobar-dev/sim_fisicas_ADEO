@@ -1,0 +1,3 @@
+D:/veloc/UNIAT/Semestre 5, Sept23-Ene24/Simuladores de Físicas/github/sim_fisicas_ADEO/Proyeto_Hola_Goldberg/cmake-build-debug/CMakeFiles/Proyeto_Hola_Goldberg.dir
+D:/veloc/UNIAT/Semestre 5, Sept23-Ene24/Simuladores de Físicas/github/sim_fisicas_ADEO/Proyeto_Hola_Goldberg/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/veloc/UNIAT/Semestre 5, Sept23-Ene24/Simuladores de Físicas/github/sim_fisicas_ADEO/Proyeto_Hola_Goldberg/cmake-build-debug/CMakeFiles/rebuild_cache.dir

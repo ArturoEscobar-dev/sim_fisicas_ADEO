@@ -1,0 +1,37 @@
+# ninja log v5
+1	112	7211858061216854	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-mkdir	c62c0d7351bb6f44
+233	331	7211863210408527	D:/veloc/UNIAT/Semestre 5, Sept23-Ene24/Simuladores de Físicas/github/sim_fisicas_ADEO/Proyeto_Hola_Goldberg/cmake-build-debug-visual-studio/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch	b0d59729f68ea1ea
+1	112	7211858061216854	D:/veloc/UNIAT/Semestre 5, Sept23-Ene24/Simuladores de Físicas/github/sim_fisicas_ADEO/Proyeto_Hola_Goldberg/cmake-build-debug-visual-studio/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-mkdir	c62c0d7351bb6f44
+113	119083	7211859250919440	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-download	93f36c954c99639d
+424	515	7211863212253497	D:/veloc/UNIAT/Semestre 5, Sept23-Ene24/Simuladores de Físicas/github/sim_fisicas_ADEO/Proyeto_Hola_Goldberg/cmake-build-debug-visual-studio/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build	a79748b9ca9aea77
+1	233	0	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update	11497f862d5f72d5
+113	119083	7211859250919440	D:/veloc/UNIAT/Semestre 5, Sept23-Ene24/Simuladores de Físicas/github/sim_fisicas_ADEO/Proyeto_Hola_Goldberg/cmake-build-debug-visual-studio/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-download	93f36c954c99639d
+1	233	0	D:/veloc/UNIAT/Semestre 5, Sept23-Ene24/Simuladores de Físicas/github/sim_fisicas_ADEO/Proyeto_Hola_Goldberg/cmake-build-debug-visual-studio/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update	11497f862d5f72d5
+233	331	7211863210408527	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch	b0d59729f68ea1ea
+705	839	7211863215493081	D:/veloc/UNIAT/Semestre 5, Sept23-Ene24/Simuladores de Físicas/github/sim_fisicas_ADEO/Proyeto_Hola_Goldberg/cmake-build-debug-visual-studio/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-done	325494d78a5e2272
+331	424	7211863211334023	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure	920cdf9f32ca4e38
+331	424	7211863211334023	D:/veloc/UNIAT/Semestre 5, Sept23-Ene24/Simuladores de Físicas/github/sim_fisicas_ADEO/Proyeto_Hola_Goldberg/cmake-build-debug-visual-studio/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure	920cdf9f32ca4e38
+424	515	7211863212253497	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build	a79748b9ca9aea77
+515	608	7211863213190113	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install	ebda0d20fd2f23e8
+515	608	7211863213190113	D:/veloc/UNIAT/Semestre 5, Sept23-Ene24/Simuladores de Físicas/github/sim_fisicas_ADEO/Proyeto_Hola_Goldberg/cmake-build-debug-visual-studio/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install	ebda0d20fd2f23e8
+608	705	7211863214149114	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-test	761015a785bdeb60
+608	705	7211863214149114	D:/veloc/UNIAT/Semestre 5, Sept23-Ene24/Simuladores de Físicas/github/sim_fisicas_ADEO/Proyeto_Hola_Goldberg/cmake-build-debug-visual-studio/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-test	761015a785bdeb60
+705	839	7211863215493081	CMakeFiles/sfml-populate-complete	325494d78a5e2272
+705	839	7211863215493081	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-done	325494d78a5e2272
+705	839	7211863215493081	D:/veloc/UNIAT/Semestre 5, Sept23-Ene24/Simuladores de Físicas/github/sim_fisicas_ADEO/Proyeto_Hola_Goldberg/cmake-build-debug-visual-studio/_deps/sfml-subbuild/CMakeFiles/sfml-populate-complete	325494d78a5e2272
+1	233	0	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update	11497f862d5f72d5
+1	233	0	D:/veloc/UNIAT/Semestre 5, Sept23-Ene24/Simuladores de Físicas/github/sim_fisicas_ADEO/Proyeto_Hola_Goldberg/cmake-build-debug-visual-studio/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update	11497f862d5f72d5
+233	328	7211967595130168	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch	b0d59729f68ea1ea
+233	328	7211967595130168	D:/veloc/UNIAT/Semestre 5, Sept23-Ene24/Simuladores de Físicas/github/sim_fisicas_ADEO/Proyeto_Hola_Goldberg/cmake-build-debug-visual-studio/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch	b0d59729f68ea1ea
+328	424	7211967596083970	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure	920cdf9f32ca4e38
+328	424	7211967596083970	D:/veloc/UNIAT/Semestre 5, Sept23-Ene24/Simuladores de Físicas/github/sim_fisicas_ADEO/Proyeto_Hola_Goldberg/cmake-build-debug-visual-studio/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure	920cdf9f32ca4e38
+424	516	7211967597013917	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build	a79748b9ca9aea77
+424	516	7211967597013917	D:/veloc/UNIAT/Semestre 5, Sept23-Ene24/Simuladores de Físicas/github/sim_fisicas_ADEO/Proyeto_Hola_Goldberg/cmake-build-debug-visual-studio/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build	a79748b9ca9aea77
+516	611	7211967597960742	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install	ebda0d20fd2f23e8
+516	611	7211967597960742	D:/veloc/UNIAT/Semestre 5, Sept23-Ene24/Simuladores de Físicas/github/sim_fisicas_ADEO/Proyeto_Hola_Goldberg/cmake-build-debug-visual-studio/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install	ebda0d20fd2f23e8
+611	708	7211967598928825	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-test	761015a785bdeb60
+611	708	7211967598928825	D:/veloc/UNIAT/Semestre 5, Sept23-Ene24/Simuladores de Físicas/github/sim_fisicas_ADEO/Proyeto_Hola_Goldberg/cmake-build-debug-visual-studio/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-test	761015a785bdeb60
+708	834	7211967600186403	CMakeFiles/sfml-populate-complete	325494d78a5e2272
+708	834	7211967600186403	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-done	325494d78a5e2272
+708	834	7211967600186403	D:/veloc/UNIAT/Semestre 5, Sept23-Ene24/Simuladores de Físicas/github/sim_fisicas_ADEO/Proyeto_Hola_Goldberg/cmake-build-debug-visual-studio/_deps/sfml-subbuild/CMakeFiles/sfml-populate-complete	325494d78a5e2272
+708	834	7211967600186403	D:/veloc/UNIAT/Semestre 5, Sept23-Ene24/Simuladores de Físicas/github/sim_fisicas_ADEO/Proyeto_Hola_Goldberg/cmake-build-debug-visual-studio/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-done	325494d78a5e2272
